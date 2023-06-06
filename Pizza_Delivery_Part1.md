@@ -149,7 +149,7 @@ the reference category of my Day of the Week variable because it had the
 highest
 ![n](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;n "n")
 value.
-
+$350$
 Next, I compiled all this data into another data frame sorted by Date.
 For instance, I took two deliveries on January 7th, and made 5.31 on the
 first one, and then 5.00 on the second one in tips. I simply took the
@@ -811,8 +811,7 @@ results.
 The model for our second hypothesis did create significant results.
 Since we took the log transformation of our outcome variable, to
 interpret the result we must work backwards to interpret the log value
-of cash-outs on weekends, like so
-<img src="https://render.githubusercontent.com/render/math?math=(exp(coef(logwlmP)["WeekendWeekend"]) - 1) * 100">,
+of cash-outs on weekends, like so <img src="https://render.githubusercontent.com/render/math?math=(exp(coef(logwlmP)[WeekendWeekend]) - 1) * 100">,
 which is equal to %106.16. Our linear model predicts that on weekends
 (Fridays, Saturdays and Sundays), we make %106.16 more tips than on
 weekdays.
