@@ -812,7 +812,7 @@ The model for our second hypothesis did create significant results.
 Since we took the log transformation of our outcome variable, to
 interpret the result we must work backwards to interpret the log value
 of cash-outs on weekends, like so
-![(exp(coef(logwlmP)\["WeekendWeekend"\]) - 1) \* 100](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;%28exp%28coef%28logwlmP%29%5B%22WeekendWeekend%22%5D%29%20-%201%29%20%2A%20100 "(exp(coef(logwlmP)["WeekendWeekend"]) - 1) * 100"),
+<img src="https://render.githubusercontent.com/render/math?math=(exp(coef(logwlmP)["WeekendWeekend"]) - 1) * 100">,
 which is equal to %106.16. Our linear model predicts that on weekends
 (Fridays, Saturdays and Sundays), we make %106.16 more tips than on
 weekdays.
