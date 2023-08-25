@@ -171,7 +171,7 @@ by the Date (Timeseries). Due to the nature of the data collection
 process, there were one or two missing values caused by typos, which
 were corrected in the data processing stage.
 
-# Section III. Estimate Your OLS Models
+# Section III. Estimating OLS Models
 
 Section III involves looking at the relationship between my main
 independent variable and the outcome I am interested in. First, I will
