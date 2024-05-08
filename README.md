@@ -3,7 +3,7 @@ Saumi Rahnamay - Data Analysis Portfolio 🗄
 
 
 ### Hi, I'm Saumi.
-![alt text](selfie-1.jpg)
+![alt text](selfie.jpg)
 
 I gratuated from Simon Fraser University in 2023 with a Bachelor of Arts and Social Sciences in Honours Philosophy, with a Minor in Social Data Analytics.  
 
