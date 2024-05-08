@@ -3,7 +3,7 @@ Saumi Rahnamay - Data Analysis Portfolio 🗄
 
 
 ### Hi, I'm Saumi.
-![alt text](<phil selfie.jpg>)
+![alt text](selfie-1.jpg)
 
 I gratuated from Simon Fraser University in 2023 with a Bachelor of Arts and Social Sciences in Honours Philosophy, with a Minor in Social Data Analytics.  
 
@@ -11,4 +11,8 @@ I've been working as a Research Assistant for Prof. Schmitt at Simon Fraser Univ
 
 ## Projects
 - R
-    - [Tip-maxxing](Tip-Maxxing_R.md)
+    - [Pizza Delivery Part 1: Maximizing Tips](Tip-Maxxing_R.md)
+-  QGIS
+    - [Pizza Delivery Part 2: Maximizing Desirability](Desirability-maxxing.md)
+- SQL
+    - [SSBM  Key Insights](Melee-SQL.md)
