@@ -13,6 +13,6 @@ I've been working as a Research Assistant for Prof. Schmitt at Simon Fraser Univ
 - R
     - [Pizza Delivery Part 1: Maximizing Tips](Tip-Maxxing_R.md)
 -  QGIS
-    - [Pizza Delivery Part 2: Maximizing Desirability](Desirability-maxxing.md)
+    - [Pizza Delivery Part 2: Maximizing Desirability](Desirability-Maxxing.md)
 - SQL
     - [SSBM  Key Insights](Melee-SQL.md)
