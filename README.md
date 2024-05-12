@@ -13,6 +13,7 @@ I've been working as a Research Assistant for Prof. Schmitt at Simon Fraser Univ
 - R
     - [Pizza Delivery Part 1: Maximizing Tip](Tip-Maxxing_R.md)
     - [BC Housing Endemic](<SDA 490 - Final Paper.pdf>)
+    - [SFU Research Assistanship](Portfolio/RAship-Data-Analysis.md)
 -  QGIS
     - [Pizza Delivery Part 2: Maximizing Desirability](Desirability-Maxxing.md)
 - SQL
