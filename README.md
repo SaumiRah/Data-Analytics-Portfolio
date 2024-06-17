@@ -1,4 +1,4 @@
-Saumi Rahnamay - Data Analysis Portfolio 🗄
+Saumi Rahnamay - Data Analytics & BI Portfolio 🗄
 ===
 
 
@@ -7,7 +7,7 @@ Saumi Rahnamay - Data Analysis Portfolio 🗄
 
 I gratuated from Simon Fraser University in 2023 with a Bachelor of Arts and Social Sciences in Honours Philosophy, with a Minor in Social Data Analytics.  
 
-I've been working as a Research Assistant for Prof. Schmitt at Simon Fraser University for ~1.5 years. Duties Include: Digitization, Cleaning, Analysis and Visualization of Historic Economic Data.
+After graduating, I worked as a Research Assistant for at Simon Fraser University for around 2 years. Duties Included: Digitization, Cleaning, Analysis and Visualization of Historic Economic Data. After this role, I completed the Google Business Intelligence Certificate in June 2024. I'm looking to apply my education and work experience to an data analysis or BI professional position. Please find my collection of completed projects below, including the capstones for my Social Data Analytics minor and the Google Business Intelligence program.
 
 ## Projects
 - R
@@ -18,3 +18,6 @@ I've been working as a Research Assistant for Prof. Schmitt at Simon Fraser Univ
     - [Pizza Delivery Part 2: Maximizing Desirability](Desirability-Maxxing.md)
 - SQL
     - [SSBM  Key Insights](Melee-SQL.md)
+- Tableau
+  - [Google Fiber Dashboard](https://public.tableau.com/views/GoogleFiberProject_17184015541650/Dash?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+    - [Executive Documents](github.com/SaumiRah/Data-Analytics-Portfolio/tree/mainGoogle-BI-Certificate)
