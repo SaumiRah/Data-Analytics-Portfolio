@@ -21,3 +21,5 @@ After graduating, I worked as a Research Assistant for at Simon Fraser Universit
 - Tableau
   - [Google Fiber Dashboard](https://public.tableau.com/views/GoogleFiberProject_17184015541650/Dash?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
     - [Executive Documents](https://github.com/SaumiRah/Data-Analytics-Portfolio/tree/main/Google%20BI%20Certificate)
+- Python
+  - [Most Streamed Spotify Songs: Data Cleaning](most_streamed_spotify_jn.ipynb)
