@@ -11,7 +11,7 @@ I gratuated from Simon Fraser University in 2023 with a Bachelor of Arts and Soc
 ## Projects
 - R
   - [Pizza Delivery Part 1: Maximizing Tip](Tip-Maxxing_R.md)
-  - [BC Housing Endemic](<SDA 490 - Final Paper.pdf>)
+  - [SDA Capstone: BC Housing Endemic](<SDA 490 - Final Paper.pdf>)
   - [SFU Research Assistanship](<RAship-Data-Analysis.md>)
 - QGIS
   - [Pizza Delivery Part 2: Maximizing Desirability](Desirability-Maxxing.md)
