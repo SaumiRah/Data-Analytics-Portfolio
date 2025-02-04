@@ -5,7 +5,7 @@ Saumi Rahnamay - Data Analytics Portfolio 🗄
 ### Hi, I'm Saumi.
 ![alt text](selfie.jpg)
 
-I gratuated from Simon Fraser University in 2023 with a Bachelor of Arts and Social Sciences in Honours Philosophy, with a Minor in Social Data Analytics. Please find my most up to date CV and a collection of completed projects below, including the capstones for my Social Data Analytics minor and the Google Business Intelligence program.
+I graduated from Simon Fraser University in 2023 with a Bachelor of Arts and Social Sciences in Honours Philosophy, with a Minor in Social Data Analytics. Please find my most up to date CV and a collection of completed projects below, including the capstones for my Social Data Analytics minor and the Google Business Intelligence program.
 
 ## [CV](SaumiRahnamay%20-%20CV.pdf)
 ## Projects
