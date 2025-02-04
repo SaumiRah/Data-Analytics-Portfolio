@@ -7,8 +7,7 @@ Saumi Rahnamay - Data Analytics & BI Portfolio 🗄
 
 I gratuated from Simon Fraser University in 2023 with a Bachelor of Arts and Social Sciences in Honours Philosophy, with a Minor in Social Data Analytics. Please find my most up to date CV and a collection of completed projects below, including the capstones for my Social Data Analytics minor and the Google Business Intelligence program.
 
-## CV
-
+## [CV](SaumiRahnamay%20-%20CV.pdf)
 ## Projects
 - R
   - [Pizza Delivery Part 1: Maximizing Tip](Tip-Maxxing_R.md)
