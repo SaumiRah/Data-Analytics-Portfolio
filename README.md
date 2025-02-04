@@ -1,4 +1,4 @@
-Saumi Rahnamay - Data Analytics & BI Portfolio 🗄
+Saumi Rahnamay - Data Analytics Portfolio 🗄
 ===
 
 
