@@ -26,4 +26,4 @@ Please find my most up to date CV and a collection of completed projects below!
   - [Most Streamed Spotify Songs: Data Cleaning](most_streamed_spotify_jn.ipynb)
   - [GUI Quiz App](Quiz-App.md)
 - Data Ethics Papers
-  - [Algorithmic Bias and Opportunity Risk](Phil 329 - Algorithmic Bias and Opportunity Risk.docx)
+  - [Algorithmic Bias and Opportunity Risk](<Phil 329 - Algorithmic Bias and Opportunity Risk.docx>)
